@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "samuelalake"
+  ],
+  "use-cases": [],
+  "tags": [
+    "rotate",
+    "diamond",
+    "clockwise",
+    "arrow",
+    "turn",
+    "spin",
+    "orientation",
+    "transform",
+    "shape",
+    "gem",
+    "rhombus",
+    "adjust"
+  ],
+  "categories": [
+    "arrows",
+    "design"
+  ]
+}
